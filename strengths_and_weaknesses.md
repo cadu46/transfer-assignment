@@ -4,3 +4,4 @@
 
 # Weaknesses
 1. Can be a bit complicated to use
+2. Struggles with binary files
